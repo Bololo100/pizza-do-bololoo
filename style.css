@@ -19,7 +19,7 @@ body {
 
 header {
   background: #37691f;
-  color: white;
+  color: rgb(182, 255, 153);
   padding: 10px 0;
 }
 
@@ -36,7 +36,7 @@ nav ul {
 }
 
 nav a {
-  color: white;
+  color: rgb(22, 56, 0);
   text-decoration: none;
   margin: 0 15px;
   font-weight: bold;
