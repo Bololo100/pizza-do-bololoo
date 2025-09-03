@@ -59,15 +59,15 @@ nav a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: white;
-  background: rgba(0,0,0,0.5);
+  color: rgb(9, 255, 0);
+  background: rgba(106, 236, 66, 0.5);
   padding: 20px;
   border-radius: 10px;
 }
 
 .sobre {
   padding: 50px 0;
-  background-color: #fff;
+  background-color: #b9ff8b;
 }
 
 .conteudo-sobre {
